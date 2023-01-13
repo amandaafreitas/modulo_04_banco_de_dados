@@ -1,6 +1,6 @@
 ## Módulo 4 - Visualizando a situação.
 
-  Os dados escolhidos para analise foram o da série norte-americana Game of Thrones (2011 - 2019). As perguntas foram criadas se baseando apenas aos episódios da série. <br> <br> 
+  Os dados escolhidos para analise foram o da série norte-americana Game of Thrones (2011 - 2019). As perguntas foram criadas se baseando apenas nos episódios da série. <br> <br> 
  <div >
   <h3> The North Remembers </h3>
   <img src="https://rollingstone.uol.com.br/media/_versions/robb-stark-red-wedding-got-hbo_widelg.jpg" width="" height=""/>
