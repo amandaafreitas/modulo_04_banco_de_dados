@@ -43,12 +43,12 @@
 
 
 :five: Os cinco episódios mais assistidos? <br>
-8x6-The Iron Throne<br>
-8x5-The Bells<br>
-7x7-The Dragon and the Wolf<br>
-8x3-The Long Night<br>
-8x4-The Last of the Starks<br><br>
-<img src="https://user-images.githubusercontent.com/113181382/212575597-9d9c07ce-9532-4ded-9949-7a2a22eedc72.png" /><br><br>
+8x6-The Iron Throne	2019-05-19<br>
+8x5-The Bells	2019-05-12<br>
+8x4-The Last of the Starks	2019-05-05<br>
+8x3-The Long Night	2019-04-28<br>
+8x2-A Knight of the Seven Kingdoms	2019-04-21<br><br>
+<img src="https://user-images.githubusercontent.com/113181382/212575980-7bac370b-ad17-4e99-a51d-45213c11aef5.png" /><br><br>
 
 
 </div>
